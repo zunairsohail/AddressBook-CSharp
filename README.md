@@ -38,8 +38,6 @@ To run this project, you'll need:
 
 5. Run the project and access the application via the browser.
 
-## Screenshots
-(Add any screenshots here to showcase the application interface.)
 
 ## License
 This project is open source and available under the [MIT License](LICENSE).
